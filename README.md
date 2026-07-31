@@ -131,7 +131,16 @@ cd PicxCraft-Image-Tools/android-app
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing & Feedback
+
+### 🐛 Report Issues & 💡 Suggest Features
+
+We welcome all feedback! If you have any:
+- **Bug reports** - Something isn't working as expected
+- **Feature suggestions** - Tools you'd like to see added
+- **General feedback** - Ideas to improve PicxCraft
+
+**Please post all issues and suggestions in the [Issues tab](https://github.com/Professional-X/PicxCraft-Image-Tools/issues)** — it's visible to everyone and helps us track and prioritize improvements.
 
 Contributions are welcome! Please read our Contributing Guidelines before submitting PRs.
 
